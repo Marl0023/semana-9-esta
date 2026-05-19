@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37012.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ABB semana 9", "ABB semana 9.csproj", "{D24CABE5-1E55-4ACE-89D2-9AD5F3716059}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D24CABE5-1E55-4ACE-89D2-9AD5F3716059}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D24CABE5-1E55-4ACE-89D2-9AD5F3716059}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D24CABE5-1E55-4ACE-89D2-9AD5F3716059}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D24CABE5-1E55-4ACE-89D2-9AD5F3716059}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {596F53B5-5FF6-4E96-A7A4-72F60EA16E30}
+	EndGlobalSection
+EndGlobal

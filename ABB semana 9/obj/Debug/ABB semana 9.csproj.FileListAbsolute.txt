@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\seman9-marlo\ABB semana 9\bin\Debug\ABB semana 9.exe.config
+C:\Users\UPN\Desktop\seman9-marlo\ABB semana 9\bin\Debug\ABB semana 9.exe
+C:\Users\UPN\Desktop\seman9-marlo\ABB semana 9\bin\Debug\ABB semana 9.pdb
+C:\Users\UPN\Desktop\seman9-marlo\ABB semana 9\obj\Debug\ABB semana 9.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\seman9-marlo\ABB semana 9\obj\Debug\ABB semana 9.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\seman9-marlo\ABB semana 9\obj\Debug\ABB semana 9.exe
+C:\Users\UPN\Desktop\seman9-marlo\ABB semana 9\obj\Debug\ABB semana 9.pdb
+C:\Users\UPN\Desktop\seman9-marlo\ABB semana 9\obj\Debug\ABB semana 9.exe.config
